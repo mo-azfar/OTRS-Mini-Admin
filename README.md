@@ -7,7 +7,7 @@ So the module in the discussion is 'AdminGenericAgent'
 
 1. Create group called mini-admin. And assigned an agent under it (rw).
 
-2. To allow mini-admin users to access the module, find these setting and add additional value (mini-admin) at *Group* parameter
+2. To allow mini-admin users to access the module, find these setting and add additional value (mini-admin) at **Group** parameter
     
       To Access Admin Module and Its Navigation (General)  
       
