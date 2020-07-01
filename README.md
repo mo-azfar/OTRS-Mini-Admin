@@ -17,8 +17,8 @@ So the module in the discussion is 'AdminGenericAgent'
             
       To Access AdminGenericAgent and Its Navigation (Generic Agent)  
       
-                          - System Configuration > Frontend::Module###AdminGenericAgent  
-                          - System Configuration > Frontend::NavigationModule###AdminGenericAgent  
+              - System Configuration > Frontend::Module###AdminGenericAgent  
+              - System Configuration > Frontend::NavigationModule###AdminGenericAgent  
           
   
 [![download.png](https://i.postimg.cc/FKgqx6qs/download.png)](https://postimg.cc/FfzDrTN2)  
