@@ -2,7 +2,7 @@
 - For OTRS CE 6.0.x
 - Allow part of admin function to mini-admin user
 
-Case Reference: https://forums.otterhub.org/viewtopic.php?f=62&t=41871
+Case Reference: https://forums.otterhub.org/viewtopic.php?f=62&t=41871  
 So the module in the discussion is 'AdminGenericAgent'  
 
 1. Create group called mini-admin. And assigned an agent under it (rw).
