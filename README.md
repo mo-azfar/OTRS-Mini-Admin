@@ -13,6 +13,7 @@ So the module in the discussion is 'AdminGenericAgent'
       
               - System Configuration > Frontend::Module###Admin  
               - System Configuration > Frontend::NavigationModule###Admin  
+              - System Configuration > Frontend::Navigation###Admin###001-Framework  
             
             
       To Access AdminGenericAgent and Its Navigation (Generic Agent)  
